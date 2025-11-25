@@ -1,2 +1,2 @@
 // Cypress script for: TC_04
-// Fallback: Could not generate script. Error: 'Agent' object has no attribute 'execute'
+// Fallback: Could not generate script. Error: Agent has reached an unrecoverable state due to max_tokens limit. For more information see: https://strandsagents.com/latest/user-guide/concepts/agents/agent-loop/#maxtokensreachedexception
